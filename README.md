@@ -4,4 +4,4 @@ Blocks garbage on Twitch.
 
 A modified version of the Twitch Garbage Block by https://github.com/ultramegatom/
 
-I removed the code that blocked the points collection feature for watching a streamer.
+Removed the code that blocked the channel points collection feature and removed the subscribe button.
