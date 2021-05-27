@@ -1,6 +1,7 @@
 ! Original Creator: https://github.com/ultramegatom/
 ! Modified version: https://github.com/5imple4Me/
 ! Dated: 27-05-2021
+!
 twitch.tv##div.extension-taskbar
 twitch.tv##div.extension-frame-wrapper
 twitch.tv/*player_type=frontpage*
