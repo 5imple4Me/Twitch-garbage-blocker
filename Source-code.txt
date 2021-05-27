@@ -1,7 +1,8 @@
 [Adblock Plus 3.0]
 ! Original Creator: https://github.com/ultramegatom/
 ! Modified version: https://github.com/5imple4Me/
-! Title: Twitch Garbage Block 2021
+! Title: Twitch Garbage Blocker 2021
+! Homepage: https://github.com/5imple4Me/Twitch-garbage-blocker/
 ! Dated: 27-05-2021
 twitch.tv##div.extension-taskbar
 twitch.tv##div.extension-frame-wrapper
